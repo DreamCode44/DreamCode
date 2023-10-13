@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: cadetblue;
+    font-family: "Courier New", sans-serif; 
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.loguitoo{
+    margin-right: 20px;
+    width: 150px;
+    height: 125px;
+}
+.dreamcode h1 {
+  font-family: "Times New Roman", sans-serif;
+  color: black;
+  margin-left: 85%;
+  margin-right: 0;
+  font-size: 80px;
+}
